@@ -32,8 +32,25 @@ dynamodb.
 
 ---
 
-### Как cдавать задание
+### Ответы:
 
-Выполненное домашнее задание пришлите ссылкой на .md-файл в вашем репозитории.
+``` Создал бакет и s3 хранилище ```
 
----
+![000](https://user-images.githubusercontent.com/106814458/201439209-7874bc0f-49df-4dc9-ba7e-586e4401bd3f.jpg)
+![001](https://user-images.githubusercontent.com/106814458/201438827-c1b6fcfa-d39f-4a2d-86ff-853d97ab8079.jpg)
+![002](https://user-images.githubusercontent.com/106814458/201438845-d74debbf-1382-4743-933c-70884eaf2511.jpg)
+
+``` Вывод команды terraform workspace list```
+
+![00](https://user-images.githubusercontent.com/106814458/201438916-14685a84-c2ce-46ef-8db8-4c49c02d23e5.jpg)
+
+``` У каждого workspace свои значения по параметрам VM ```
+
+![image](https://user-images.githubusercontent.com/106814458/201438993-3316f438-b8e6-4b06-bf85-bb158a86d10f.png)
+
+``` Правда значения были не приняты ЯО поэтому пришлось редактировать на подходящие )) ```
+
+![01](https://user-images.githubusercontent.com/106814458/201439053-09e9ce04-1db8-4f18-a010-b6af09dbfc3d.jpg)
+![02](https://user-images.githubusercontent.com/106814458/201439055-b65dc7f9-b188-4965-abbb-e7e149b62cfa.jpg)
+
+
